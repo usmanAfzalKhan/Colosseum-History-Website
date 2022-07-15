@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 2 for Usman Khan</title>
+		<link rel="stylesheet" href="_css/styles.css">
+	</head>
+	<body>
+	<div id= "wrapper">
+		<header> 
+			<h1>Colosseum</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">Plan Your Visit</a></li>
+				<li><a href="#">Book an Event</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a id="selected" href="contact.html">Contact Us</a></li>
+			</ul>
+		</nav>
+		<aside>
+		<h3>More Information</h3>
+	<ul>
+		<li><a href="#">History</a></li>
+		<li><a href="#">City of Rome</a></li>
+		<li><a href="#">Physical Description</a></li>
+		<li><a href="#">Medieval Times</a></li>
+		<li><a href="#">Interior Seatings</a></li>
+		<li><a href="#">Arena</a></li>
+		<li><a href="#">Use</a></li>
+	</ul>
+		</aside>
+	<section id="content">
+	<h2>Contact</h2>
+	<p>Name: Usman Khan</p>
+	<p>Student id: 991570330</p>
+	<p>Email: <a href= "mailto:khan484@sheridancollege.ca"</a>khan484@sheridancollege.ca</p>
+	<br><br><br><br><br><br><br><br>	
+	</section>
+		
+			<footer>
+		<div id="altnav">
+			<a href="index.html">Home</a> - 
+			<a href="#">Plan Your Visit</a> - 
+			<a href="#">Book an Event</a> - 
+			<a href="#">About Us</a>- 
+			<a href="contact.html">Contact Us</a>
+		</div>		
+		<p>Developed by: Usman Khan<br>
+		Reference:<a href="https://en.wikipedia.org/wiki/Colosseum"> https://en.wikipedia.org/wiki/Colosseum</a></p> 
+			</footer>
+			</div
+	</body>
+</html>

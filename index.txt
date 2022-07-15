@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Assignment 2 for Usman Khan</title>
+		<link rel="stylesheet" href="_css/styles.css">
+	</head>
+	<body>
+	<div id= "wrapper">
+		<header> 
+			<h1>Colosseum</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a id="selected" href="index.html">Home</a></li>
+				<li><a href="#">Plan Your Visit</a></li>
+				<li><a href="#">Book an Event</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="contact.html">Contact Us</a></li>
+			</ul>
+		</nav>
+		<aside>
+		<h3>More Information</h3>
+	<ul>
+		<li><a href="#">History</a></li>
+		<li><a href="#">City of Rome</a></li>
+		<li><a href="#">Physical Description</a></li>
+		<li><a href="#">Medieval Times</a></li>
+		<li><a href="#">Interior Seatings</a></li>
+		<li><a href="#">Arena</a></li>
+		<li><a href="#">Use</a></li>
+	</ul>
+		</aside>
+	<section id="content">
+	<h2>About Us</h2>
+	<p>Colosseum. The Colosseum or Coliseum (/ˌkɒləˈsiːəm/ KOL-ə-SEE-əm), also known as the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio [aɱfiteˈaːtro ˈflaːvjo] or Colosseo [kolosˈsɛːo]), is an oval amphitheatre in the centre of the city of Rome, Italy. The Colosseum is the name given to the amphitheater of the city of Rome. Its name comes from the word 'Colosse', which designates a particularly tall and strong being. (See the Colossus of Rhodes, one of the 7 wonders of the world, which is a pretty good word as it is really big and impressive, it is also the greatest of all amphitheatres of the Roman Empire. </p>
+	<p>The architecture of the Colosseum shows an ovoid plane, that is to say in the shape of an egg. It is an ellipse with several centers, but of a general appearance it is quite close to an oval plane. The longest length is 187.75m and its width 155.60m, for a constant height of 50.75m. It consists of an amphitheater block encircling an arena surrounded by a facade that goes around. There are four floors. The space between the amphitheater and the facade is made of two adjoining circular corridors per floor</p>
+	<p>The Colosseum was built between 72 A.D and 80 A.D under the Emperor Vespasian, in the heart of Ancient Rome. Made from stone and concrete, this magnificent monument was built with the man power of tens of thousands of slaves. This brilliant building had 80 entrances and could seat approximately 50,000 spectators who would come to watch sporting events and games. The first games ever to be held were in 80 A.D, under Emperor Titus (the son of Vespasian), and they ran for 100 days straight. Games continued to be held for centuries to come – gladiatorial games until the fifth century and animal hunts until the 6th century.</p>
+	</section>
+		
+			<footer>
+		<div id="altnav">
+			<a href="index.html">Home</a> - 
+			<a href="#">Plan Your Visit</a> - 
+			<a href="#">Book an Event</a> - 
+			<a href="#">About Us</a>- 
+			<a href="contact.html">Contact Us</a>
+		</div>		
+		<p>Developed by: Usman Khan<br>
+		Reference:<a href="https://en.wikipedia.org/wiki/Colosseum"> https://en.wikipedia.org/wiki/Colosseum</a></p> 
+			</footer>
+			</div
+	</body>
+</html>

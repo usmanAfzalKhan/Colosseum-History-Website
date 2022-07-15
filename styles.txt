@@ -1,0 +1,167 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, Times New Roman, sans-serif;
+	font-size: 14px;
+	color: #EEE911;
+	background-color: black;
+}
+#wrapper
+{
+	width: 760px;
+	margin: auto;
+	border-style: ridge;
+	border-top: none;
+}
+header
+{
+	background-image: url('../_images/colosseum.jpg');
+    height:300px;
+	width: 760px; 
+	border: none;
+}
+h1
+{
+	float:right;
+	font-size: 50px;
+	margin-top: 40px;
+	margin-right: 0px;
+	color: brown;
+	background-color:#ebd234;
+}
+nav
+{
+	color: black;
+	font-weight: bold;
+	margin: 0px 0px 20px 0px;
+	background-color: black;
+	margin-right: 0px;
+	padding: 0px;
+	border-bottom: solid;
+	border-bottom-color: gray;
+	margin-top: 0px;
+	margin-bottom:0px;
+	
+}
+nav ul
+{
+	margin-right: 11px;
+	padding: 0px;
+	margin-left: 112px;
+}
+nav ul li
+{
+	display: inline-block;
+}
+nav a
+{
+	padding: 20px 16.5px;
+	background-color: #f2bf27 ;
+	color: black;
+	display: block;
+	text-decoration: none;
+	margin-right: 0px;
+}
+nav a:active
+{
+	background-color: gray;
+	box-shadow: none;
+}
+nav a:hover
+{
+	background-color: brown;
+	box-shadow: 0px 1px 1px #666666;
+	text-decoration: underline;
+}
+#selected
+{
+	background-color: #b03b00;
+}
+aside
+{
+	float: right;
+	width: 280px;
+	padding: 25px;
+	line-height: 18px;
+	margin-left:30px;
+	font-size: 15px ;
+	
+}
+aside a
+{
+	color: #EEE911;
+	text-decoration: none;
+	font-weight: bold;
+}
+aside a:hover
+{
+	color: #DB6D16;
+	text-decoration:none;
+}
+#content
+{
+    margin-left:10px;
+	margin-right:315px;
+    border-right:solid;
+	border-right-color: gray;
+	line-height: 16px;
+	padding-top:5px;
+	font-weight: bold;
+	
+}
+#content h2, p
+{
+	margin: 0px;
+	padding-bottom: 15px;
+	padding-right: 65px;
+	margin-right: 10px;
+}
+#content h2
+{
+	font-family: "Trebuchet MS", sans-serif;
+	color: #EEE911;
+}
+#content a
+{
+	color: #EEE911;;
+	text-decoration: none;
+}
+#content a:hover
+{
+	color: #DB6D16;
+}
+footer
+{
+	border-top: solid;
+	border-top-color: gray;
+	clear: both;
+	height: 38px;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 10px;
+	color: white;
+	padding: 10px 25px;
+	line-height: 15px;
+}
+footer a
+{
+	color: white;
+	text-decoration: none;
+}
+footer a:hover
+{
+	color: #DB6D16;
+	text-decoration: none;
+}
+#altnav
+{
+	text-align: right;
+}
+#altnav a
+{
+	color:white;
+}
+#altnav a:hover
+{
+	color:#DB6D16;
+}
